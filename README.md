@@ -416,5 +416,6 @@ engineering-learning-journal/
 ├── cybersecurity/
 ├── docker/
 ├── aws/
+├── devsecops/
 ├── devops/
 └── projects/
