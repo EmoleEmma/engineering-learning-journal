@@ -571,7 +571,7 @@ engineering work.
 
 The Python learning path is guided by the roadmap.sh Python roadmap.
 
-[View Python Roadmap](./python.pdf)
+[View Python Roadmap](./ROADMAP.pdf)
 
 The roadmap is used as a reference for identifying concepts and understanding
 the broader Python ecosystem. It is not treated as a checklist that must be
