@@ -62,6 +62,12 @@ Topics:
 - Packages
 - Testing
 
+### Primary Python Course
+
+**Dr. Angela Yu — 100 Days of Code: The Complete Python Pro Bootcamp**
+
+[View Course on Udemy](https://www.udemy.com/course/100-days-of-code/?couponCode=KEEPLEARNING)
+
 ### YouTube
 
 - Corey Schafer — primary
