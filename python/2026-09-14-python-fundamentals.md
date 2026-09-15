@@ -35,7 +35,7 @@ I need more practice with:
 
 I built a simple student information program that accepts a student's name, age, and course and displays the information.
 
-[View Exercise](..small-projects/python/Student-Information-Program.py)
+[View Exercise](../small-projects/python/Student-Information-Program.py)
 
 ## Next Step
 

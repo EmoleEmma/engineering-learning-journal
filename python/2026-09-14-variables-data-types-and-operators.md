@@ -38,7 +38,7 @@ I need more practice with:
 
 I built a simple program that stores student information and performs basic calculations using different variables and operators.
 
-[View Exercise](..small-projects/python/Student-Grade-Calculations.py)
+[View Exercise](../small-projects/python/Student-Grade-Calculations.py)
 
 ## Next Step
 

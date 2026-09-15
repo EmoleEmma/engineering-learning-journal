@@ -37,7 +37,7 @@ I need more practice with:
 
 I built a simple program that checks a student's score and determines the appropriate result using conditional statements.
 
-[View Exercise](..small-projects/python/Student-Result-Checker.py)
+[View Exercise](../small-projects/python/Student-Result-Checker.py)
 
 ## Next Step
 

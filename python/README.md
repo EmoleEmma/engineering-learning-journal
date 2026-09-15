@@ -14,14 +14,19 @@ My Python learning follows the Engineering Learning Journal cycle:
 
 **Roadmap → Learn → Practice → Build → Test → Document → Review**
 
-I use roadmap.sh to understand what I should learn, learning resources such as
-Corey Schafer to understand concepts, exercises to practice them, and small
-projects to prove that I can apply them.
+I use roadmap.sh to understand what I should learn and the order in which
+concepts fit together. I use Dr. Angela Yu's Python course as my primary
+structured learning resource, while other resources are used when I need
+additional explanations or alternative approaches.
 
-A topic is not considered complete simply because I watched a video. I should be
-able to explain the concept, implement it without blindly copying, practice it,
-and demonstrate what I learned through my notes or code.
+The goal is not to simply complete a course or consume tutorials. Each topic
+should be reinforced through exercises, practical programs, small projects,
+testing, and documentation.
 
+A topic is not considered complete simply because I finished a lesson or
+watched a video. I should be able to explain the concept, implement it
+without blindly copying, practice it, and demonstrate what I learned through
+my notes or code.
 ---
 
 # Core Topics
@@ -413,10 +418,10 @@ Typical sections include:
 | Python Fundamentals | ✅ Complete |[Learning Entry](./2026-09-14-python-fundamentals.md) |
 | Variables, Data Types & Operators | ✅ Complete | [Learning Entry](./2026-09-14-variables-data-types-and-operators.md) |
 | Control Flow & Loops | ✅ Complete | [Learning Entry](./2026-09-14-control-flow-and-loops.md) |
-| Functions & Scope | 🟡 In Progress  | — |
-| Modules & Packages | ⬜ Not started | — |
-| Exception Handling | ⬜ Not started | — |
-| File Handling & Data Processing | ⬜ Not started | — |
+| Functions & Scope | ✅ Complete  | [Learning Entry](./2026-09-15-functions-and-scope.md) |
+| Modules & Packages | ✅ Complete | [Learning Entry](./2026-09-15-modules-and-packages.md) |
+| Exception Handling | ✅ Complete | [Learning Entry](./2026-09-15-exception-handling.md) |
+| File Handling & Data Processing | 🟡 In Progress | — |
 | Object-Oriented Programming | ⬜ Not started | — |
 | Virtual Environments & Dependency Management | ⬜ Not started | — |
 | Type Hints & Testing | ⬜ Not started | — |
@@ -482,18 +487,21 @@ process, experiments, and evidence of how my understanding developed.
 
 # Learning Resources
 
-### Primary Python Teacher
+### Primary Python Course
 
-**Corey Schafer**
+**Dr. Angela Yu — 100 Days of Code: The Complete Python Pro Bootcamp**
 
-Used primarily for clear explanations and practical Python demonstrations.
+My primary structured Python course. I use the course to learn Python concepts
+progressively through explanations, coding exercises, and practical projects.
 
-### Secondary Resource
+[View Course on Udemy](https://www.udemy.com/course/100-days-of-code/?couponCode=KEEPLEARNING)
+
+### Supplementary Resource
 
 **freeCodeCamp.org**
 
-Used when additional explanations, longer courses, or alternative teaching
-approaches are useful.
+Used when additional explanations, longer courses, practical examples, or
+alternative teaching approaches are useful.
 
 ### Roadmap
 
@@ -502,13 +510,19 @@ approaches are useful.
 Used as a learning map to understand the broader Python ecosystem and the
 order in which major concepts can be explored.
 
+The roadmap helps determine **what to learn**, while the primary course and
+other resources help with **how to learn it**.
+
 ### Important
 
-No single resource is treated as proof that a topic is complete.
+No single course or resource is treated as proof that a topic is complete.
 
 The learning process is:
 
-**Roadmap → Learn → Practice → Build → Test → Document**
+**Roadmap → Learn → Practice → Build → Test → Document → Review**
+
+Practical work, exercises, projects, testing, and documented understanding
+are the evidence that a topic has been learned.
 
 ---
 
