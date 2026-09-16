@@ -421,10 +421,10 @@ Typical sections include:
 | Functions & Scope | ✅ Complete  | [Learning Entry](./2026-09-15-functions-and-scope.md) |
 | Modules & Packages | ✅ Complete | [Learning Entry](./2026-09-15-modules-and-packages.md) |
 | Exception Handling | ✅ Complete | [Learning Entry](./2026-09-15-exception-handling.md) |
-| File Handling & Data Processing | 🟡 In Progress | — |
-| Object-Oriented Programming | ⬜ Not started | — |
-| Virtual Environments & Dependency Management | ⬜ Not started | — |
-| Type Hints & Testing | ⬜ Not started | — |
+| File Handling & Data Processing | ✅ Complete | [Learning Entry](./2026-09-16-file-handling-and-data-processing.md) |
+| Object-Oriented Programming | ✅ Complete | [Learning Entry](./2026-09-16-object-oriented-programming.md) |
+| Virtual Environments & Dependency Management | ✅ Complete | [Learning Entry](./2026-09-16-virtual-environments-and-dependency-management.md) |
+| Type Hints & Testing | 🟡 In Progress | — |
 
 Status should be updated based on actual understanding and practice, not
 simply because a tutorial or video has been watched.
