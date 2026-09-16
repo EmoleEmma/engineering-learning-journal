@@ -52,27 +52,46 @@ The phases overlap intentionally. Earlier skills continue to be used as newer sk
 Topics:
 
 - Syntax
-- Functions
-- Object-oriented programming
-- Modules
-- Exceptions
-- File handling
-- Virtual environments
-- Type hints
-- Packages
-- Testing
 
+- Functions
+
+- Object-oriented programming
+
+- Modules
+
+- Exceptions
+
+- File handling
+
+- Virtual environments
+
+- Type hints
+
+- Packages
+
+- Testing
 
 ### Primary Python Course
 
 **Dr. Angela Yu — 100 Days of Code: The Complete Python Pro Bootcamp**
 
+My primary structured Python course. I use the course to learn Python concepts progressively through explanations, coding exercises, and practical projects.
+
 [View Course on Udemy](https://www.udemy.com/course/100-days-of-code/?couponCode=KEEPLEARNING)
 
-### YouTube
+### Supplementary Resource
 
-- Corey Schafer — primary
-- freeCodeCamp.org — secondary
+**freeCodeCamp.org**
+
+Used when additional explanations, longer courses, practical examples, or alternative teaching approaches are useful.
+
+### Roadmap
+
+**roadmap.sh — Python Roadmap**
+
+Used as a learning map to understand the broader Python ecosystem and the order in which major concepts can be explored.
+
+The roadmap helps determine **what to learn**, while the primary course and other resources help with **how to learn it**.
 
 ---
 
