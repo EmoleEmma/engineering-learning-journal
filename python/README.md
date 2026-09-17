@@ -424,7 +424,9 @@ Typical sections include:
 | File Handling & Data Processing | ✅ Complete | [Learning Entry](./2026-09-16-file-handling-and-data-processing.md) |
 | Object-Oriented Programming | ✅ Complete | [Learning Entry](./2026-09-16-object-oriented-programming.md) |
 | Virtual Environments & Dependency Management | ✅ Complete | [Learning Entry](./2026-09-16-virtual-environments-and-dependency-management.md) |
-| Type Hints & Testing | 🟡 In Progress | — |
+| Type Hints & Testing | ✅ Complete | [Learning Entry](./2026-09-17-type-hints-and-testing.md) |
+| Additional Learning 1 | ✅ Complete | [Learning Entry](./2026-09-17-additional-learning-1.md) |
+| Additional Learning 2 | ✅ Complete | [Learning Entry](./2026-09-17-additional-learning-2.md) |
 
 Status should be updated based on actual understanding and practice, not
 simply because a tutorial or video has been watched.
@@ -512,6 +514,8 @@ order in which major concepts can be explored.
 
 The roadmap helps determine **what to learn**, while the primary course and
 other resources help with **how to learn it**.
+
+[View Python Roadmap](./ROADMAP.MD)
 
 ### Important
 
