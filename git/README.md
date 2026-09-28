@@ -469,15 +469,15 @@ Typical sections include:
 
 | Topic | Status | Evidence |
 |---|---|---|
-| Git Fundamentals | 🔄 Not Started | |
-| Git Commands & Basic Workflow | 🔄 Not Started | |
-| Branching & Merging | 🔄 Not Started | |
-| GitHub Essentials | 🔄 Not Started | |
-| Collaboration & Pull Requests | 🔄 Not Started | |
-| Git Best Practices & Documentation | 🔄 Not Started | |
-| Git History & Undoing Changes | 🔄 Not Started | |
-| Advanced Git | 🔄 Not Started | |
-| GitHub Workflow & Automation | 🔄 Not Started | |
+| Git Fundamentals | 🟢 Complete | [Learning Entry](2026-09-25-git-fundamentals-and-version-control.md) |
+| Repositories & Working with Git | 🟢 Complete | [Learning Entry](2026-09-26-repositories-and-working-with-git.md) |
+| Staging, Commits & History | 🟢 Complete | [Learning Entry](2026-09-27-staging-commits-and-history.md) |
+| Branches | 🟢 Complete  | [Learning Entry](2026-09-27-branches.md) |
+| Merging & Conflict Resolution | 🔄 Not Started | |
+| Remote Repositories | 🔄 Not Started | |
+| Pull Requests & Code Review | 🔄 Not Started | |
+| Repository Hygiene | 🔄 Not Started | |
+| GitHub Actions | 🔄 Not Started | |
 | Advanced Git & GitHub Features | 🔄 Not Started | |
 
 Status should be updated based on actual understanding and practice, not simply because a tutorial or video has been watched.
